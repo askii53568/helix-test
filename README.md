@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--helix-test--Askar53568.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
